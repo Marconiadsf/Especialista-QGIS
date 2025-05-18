@@ -99,10 +99,8 @@ O sistema é composto por seis agentes cooperativos, cada um responsável por um
 
 ## 🚀 Como Começar
 
-Explore e experimente o Especialista-QGIS de forma rápida e fácil:
-
-* **🔗 Testar no Google Colab:** [Abrir o Notebook no Google Colab](coloque_o_link_real_aqui) - Execute e modifique o código diretamente no seu navegador.
-* **📁 Documentação:** Consulte a documentação detalhada no [Repositório](coloque_o_link_do_repositorio_aqui) para entender a fundo o projeto.
+* **🔗 Testar no Google Colab:** [Abrir o Notebook no Google Colab](https://github.com/Marconiadsf/Especialista-QGIS/blob/main/EspecialistaQGIS-2.ipynb) - Execute e modifique o código diretamente no seu navegador.
+* **📁 Documentação:** Consulte a documentação detalhada no [Repositório](To Do) para entender a fundo o projeto.
 * **🧠 Código Principal:** Mergulhe no coração do sistema e explore o código fonte.
 
 ---
