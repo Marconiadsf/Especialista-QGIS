@@ -55,15 +55,9 @@ O sistema é composto por seis agentes cooperativos, cada um responsável por um
 
 ## 🔁 Fluxo de Operação dos Agentes
 
-> ⚠️ *Adicione aqui a imagem do fluxograma ou uma representação em código Markdown.*
-
-Você pode adicionar o fluxograma visual em Markdown com:
-
 ```markdown
-![Fluxograma do sistema de agentes](caminho/fluxograma.png)
+![Fluxograma do sistema de agentes](fluxograma.png)
 ```
-
-Ou colar uma versão ASCII/texto do diagrama aqui.
 
 ---
 
