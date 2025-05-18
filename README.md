@@ -135,6 +135,8 @@ O projeto tem aplicação direta em:
 * Melhorar a função call_agent, e estabelecer um padrao de input/output dos agentes
 * Refinar a interação entre os agentes para atender o fluxograma ideal.
 * Criar/Conectar ferramentas "tools" ausentes como Google Maps, Conversão de Unidades, APIs de Dados Geográficos, etc
+* Criar um sistema mais eficaz de controle de versao dos codigos reparados pelo Agente Reparador (quando funcionar) e controle de sessao/memória dos agentes.
+* Estabelecer como o agente executor deve se somunicar com o computador cliente durante a execucao (debug)
 
 ---
 ## 🧠 Tecnologias Utilizadas
@@ -156,6 +158,8 @@ Este projeto é distribuído sob a **MIT License**. Consulte o arquivo `LICENSE`
 
 ## ✉️ Contato
 
-Desenvolvido por **[Marconiadsf]**
+* **Desenvolvedor:** Marconiadsf
+* **Discord:** marconi2744
+* **LinkedIn:** [https://www.linkedin.com/in/engenheirodeminas/](https://www.linkedin.com/in/engenheirodeminas/)
 
 🐍 Participante do **Desafio Alura 2025**
