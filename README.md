@@ -1,4 +1,4 @@
-<img src=/capa.jpeg alt="Imagem de capa" width="600px" height="200px">
+<img src=/capa2.jpeg alt="Imagem de capa" width="600px" height="200px">
 
 ## 🚀 Especialista-QGIS: GIS Inteligente para Todos
 
