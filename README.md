@@ -143,10 +143,11 @@ O projeto tem aplicação direta em:
 
 O Especialista-QGIS é construído com as seguintes tecnologias:
 
-* **🐍 Python:** A linguagem de programação principal para a lógica e os agentes inteligentes.
-* **☁️ Google Colab:** Plataforma para desenvolvimento e execução do projeto na nuvem.
-* **🤖 Google AI Studio (ADK):** Ferramentas para a criação e interação com modelos de linguagem.
-* **🗺️ QGIS:** Software de Sistema de Informação Geográfica para a integração e aplicação das funcionalidades.
+* 🐍 **Python:** A linguagem de programação principal para a lógica e os agentes inteligentes.
+* ☁️ **Google Colab:** Plataforma para desenvolvimento e execução do projeto na nuvem.
+* 🤖 **Google AI Studio (ADK):** Ferramentas para a criação e interação com modelos de linguagem.
+* 🗺️ **QGIS:** Software de Sistema de Informação Geográfica para a integração e aplicação das funcionalidades.
+* ✨ Código gerado com o auxílio do Gemini: [https://gemini.google.com/share/159a7bcbd25e](https://gemini.google.com/share/159a7bcbd25e)
 
 ---
 
