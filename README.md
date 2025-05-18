@@ -137,6 +137,7 @@ O projeto tem aplicação direta em:
 * Criar/Conectar ferramentas "tools" ausentes como Google Maps, Conversão de Unidades, APIs de Dados Geográficos, etc
 * Criar um sistema mais eficaz de controle de versao dos codigos reparados pelo Agente Reparador (quando funcionar) e controle de sessao/memória dos agentes.
 * Estabelecer como o agente executor deve se somunicar com o computador cliente durante a execucao (debug)
+* Não foi possível usar outros modelos (erros, não disponíveis ou sem créditos/uso livre ) 
 
 ---
 ## 🧠 Tecnologias Utilizadas
