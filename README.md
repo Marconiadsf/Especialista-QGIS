@@ -1,5 +1,6 @@
-<img src=/capa.jpeg alt="Imagem de capa" width="600px">
-# 🚀 Especialista-QGIS: GIS Inteligente para Todos
+<img src=/capa.jpeg alt="Imagem de capa" width="600px" height="200px">
+
+## 🚀 Especialista-QGIS: GIS Inteligente para Todos
 
 **Missão:** Democratizar o poder do Geoprocessamento (GIS) para profissionais que trabalham com dados espaciais, com foco em agentes públicos, geólogos, engenheiros e especialistas em gestão de riscos urbanos.
 
