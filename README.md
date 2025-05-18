@@ -1,12 +1,44 @@
-# Especialista-QGIS
-O QGis Especialista tem como missão levar o poder do geoprocessamento (GIS) para todos os profissionais que atuam com dados espaciais, com especial atenção para agentes públicos, geólogos, engenheiros e profissionais da gestão de riscos urbanos.
+<img src=/capa.jpeg alt="Imagem de capa" width="600px">
+# 🚀 Especialista-QGIS: GIS Inteligente para Todos
 
-## 🧠 Sistema de Agentes Inteligentes para o QGIS via Interface Conversacional
+**Missão:** Democratizar o poder do Geoprocessamento (GIS) para profissionais que trabalham com dados espaciais, com foco em agentes públicos, geólogos, engenheiros e especialistas em gestão de riscos urbanos.
 
-Este projeto tem como objetivo o desenvolvimento de um sistema de **agentes inteligentes especializados** que integrem o QGIS a uma **interface de linguagem natural**. A proposta é permitir que qualquer usuário, mesmo sem experiência em programação, possa solicitar tarefas espaciais no QGIS por meio de uma conversa simples com um assistente virtual.
+**Contexto:** Projeto desenvolvido para o Desafio Alura: Imersão IA.
 
-A arquitetura é modular e baseada em **Google AI Studio**, **Google Colab** e **Python**, com planejamento para futura integração como **plugin nativo no QGIS**.
+---
 
+## 🧠 Agentes Inteligentes QGIS via Interface Conversacional
+
+**Objetivo Principal:** Desenvolver um sistema de **agentes inteligentes especializados** que integram o QGIS a uma **interface de linguagem natural**, permitindo que usuários sem conhecimento em programação realizem tarefas espaciais através de conversas intuitivas com um assistente virtual.
+
+**Arquitetura:** Monolítica, baseada em **Google AI Studio**, **Google Colab** e **Python**. Planejamento futuro para integração como **plugin nativo no QGIS**.
+
+---
+
+## 🌍 GIS para Salvar Vidas: Tecnologia a Serviço da Segurança Urbana
+
+Acreditamos que o acesso facilitado a ferramentas de geoprocessamento pode ser crucial na proteção de vidas e na construção de cidades mais resilientes.
+
+**A Urgência:** Tragédias causadas por eventos climáticos extremos demandam respostas rápidas e precisas. A informação geográfica oportuna pode ser a chave para mitigar riscos e otimizar ações de resposta.
+
+**Nossa Solução:** O Especialista-QGIS visa democratizar o GIS, oferecendo aos profissionais a capacidade de gerar mapas temáticos e relatórios de forma ágil, precisa e econômica, sem a dependência de softwares proprietários.
+
+**Imagine:**
+
+* **Mapas de risco em tempo real:** Identificação dinâmica de áreas vulneráveis a deslizamentos e enchentes.
+* **Otimização de rotas de emergência:** Planejamento eficiente para resgates e evacuações.
+* **Comunicação clara de riscos:** Ferramentas visuais para informar a população de forma eficaz.
+
+**Benefícios:**
+
+* **Agilidade na produção:** Criação rápida de mapas e relatórios essenciais.
+* **Redução de custos:** Eliminação da necessidade de licenças de software onerosas.
+* **Potencial para salvar vidas:** Respostas mais rápidas e eficientes em situações de risco urbano (enchentes, deslizamentos, acidentes).
+* **Empoderamento profissional:** Autonomia, produtividade e precisão para diversas áreas (gestão de riscos, mineração, logística, urbanismo, etc.).
+
+---
+
+Com este projeto, buscamos transformar a maneira como profissionais interagem com dados espaciais, colocando o poder do GIS nas mãos de quem realmente faz a diferença.
 ---
 
 ## ⚙️ Funcionamento Geral do Sistema
@@ -55,9 +87,22 @@ O sistema é composto por seis agentes cooperativos, cada um responsável por um
 
 ## 🔁 Fluxo de Operação dos Agentes
 
-```markdown
-![Fluxograma do sistema de agentes](fluxograma.png)
-```
+<a href=/fluxograma.png>
+  <img src=/fluxograma.png alt="Fluxograma do sistema de agentes - Clique para ampliar" height="300" >
+</a>
+
+
+
+---
+
+
+## 🚀 Como Começar
+
+Explore e experimente o Especialista-QGIS de forma rápida e fácil:
+
+* **🔗 Testar no Google Colab:** [Abrir o Notebook no Google Colab](coloque_o_link_real_aqui) - Execute e modifique o código diretamente no seu navegador.
+* **📁 Documentação:** Consulte a documentação detalhada no [Repositório](coloque_o_link_do_repositorio_aqui) para entender a fundo o projeto.
+* **🧠 Código Principal:** Mergulhe no coração do sistema e explore o código fonte.
 
 ---
 
@@ -85,7 +130,31 @@ O projeto tem aplicação direta em:
 * Desenvolver o plugin frontend no QGIS.
 * Integrar todos os agentes em um pipeline automático.
 * Melhorar o controle de contexto e refinamento iterativo com logs de feedback real.
+* Corrigir o codigo do agente reparador
+* Melhorar a função call_agent, e estabelecer um padrao de input/output dos agentes
+* Refinar a interação entre os agentes para atender o fluxograma ideal.
+* Criar/Conectar ferramentas "tools" ausentes como Google Maps, Conversão de Unidades, APIs de Dados Geográficos, etc
+
+---
+## 🧠 Tecnologias Utilizadas
+
+O Especialista-QGIS é construído com as seguintes tecnologias:
+
+* **🐍 Python:** A linguagem de programação principal para a lógica e os agentes inteligentes.
+* **☁️ Google Colab:** Plataforma para desenvolvimento e execução do projeto na nuvem.
+* **🤖 Google AI Studio (ADK):** Ferramentas para a criação e interação com modelos de linguagem.
+* **🗺️ QGIS:** Software de Sistema de Informação Geográfica para a integração e aplicação das funcionalidades.
 
 ---
 
-Se quiser, posso transformar isso também em um PDF de apresentação, diagrama interativo ou documentação HTML. É só pedir!
+## 📜 Licença
+
+Este projeto é distribuído sob a **MIT License**. Consulte o arquivo `LICENSE` no repositório para obter mais informações sobre os termos e condições de uso.
+
+---
+
+## ✉️ Contato
+
+Desenvolvido por **[Marconiadsf]**
+
+🐍 Participante do **Desafio Alura 2025**
